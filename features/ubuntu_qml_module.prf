@@ -1,0 +1,2 @@
+load(qml_module)
+load(ubuntu_enable_testing)

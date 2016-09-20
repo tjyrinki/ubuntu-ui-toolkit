@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Calculator
+Comment=My project description
+Exec=qmlscene $@ calculator.qml
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Gettext-Domain=com.ubuntu.developer.bzoltan.calculator
+Icon=calculator.png
+
