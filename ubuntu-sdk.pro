@@ -13,8 +13,8 @@ src_uitk_launcher.depends = sub-src
 
 SUBDIRS += po documentation app-launch-profiler src_uitk_launcher apicheck
 
-sub_tests.CONFIG -= no_default_target
-sub_tests.CONFIG -= no_default_install
+#sub_tests.CONFIG -= no_default_target
+#sub_tests.CONFIG -= no_default_install
 
 # additional 'make test' target required by continuous integration system
 #test.target = test
